@@ -1,7 +1,7 @@
 About
 ============
 
-Bundle hat helps to develop BAckbone projects with Symfony2. The bundle comes with the latest Backbon-Version and
+Bundle hat helps to develop Backbone.js projects with Symfony2. The bundle comes with the latest Backbone-Version and
 some Commandline tools
 
 Installation
@@ -73,3 +73,5 @@ Usage
 TODO
 ============
 
+* Write a decent documentation
+* Implement interactive commandline tools for generating backbone artifact files
