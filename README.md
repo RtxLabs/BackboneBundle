@@ -4,6 +4,8 @@ About
 Bundle hat helps to develop Backbone.js projects with Symfony2. The bundle comes with the latest Backbone-Version and
 some Commandline tools
 
+[![Build Status](https://secure.travis-ci.org/RtxLabs/BackboneBundle.png)](http://travis-ci.org/RtxLabs/BackboneBundle)
+
 Installation
 ============
 
