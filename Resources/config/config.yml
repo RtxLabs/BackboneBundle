@@ -1,7 +1,8 @@
-#assetic:
-#    assets:
-#        rtxbackbonebundle:
-#            inputs:
-#                - @RtxLabsBackboneBundle/Resources/public/js/json2.js
-#                - @RtxLabsBackboneBundle/Resources/public/js/underscore-min.js
-#                - @RtxLabsBackboneBundle/Resources/public/js/backbone-min.js
+assetic:
+    assets:
+        rtxbackbonebundle:
+            inputs:
+                - @RtxLabsBackboneBundle/Resources/public/js/json2.js
+                - @RtxLabsBackboneBundle/Resources/public/js/underscore.js
+                - @RtxLabsBackboneBundle/Resources/public/js/backbone.js
+                - @RtxLabsBackboneBundle/Resources/public/js/extension/backbone.validations.js
